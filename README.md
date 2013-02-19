@@ -1,4 +1,4 @@
 rlist
 =====
 
-Reverse a singly linked list
+Example packet sniffer code for the article 'Reversing a Singly Linked List'
