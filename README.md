@@ -6,4 +6,5 @@ Example packet sniffer code for the article 'Reversing a Singly Linked List'
 Build
 =====
 
-Build the test application my typing 'make'.
+1. cd to rlist directory.
+2. Type 'make'.
