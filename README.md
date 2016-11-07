@@ -1,6 +1,6 @@
 # rlist
 
-Example packet sniffer code for the article [_Reversing a Singly Linked List_](http://vichargrave.com/reversing-a-singly-linked-list/).
+Example code from my Reverse a Singly Linked List blog.
 
 ## Build
 
