@@ -1,7 +1,7 @@
 /*
    client.cpp
 
-   Test app to reverse a kinked list. 
+   Test app to reverse a linked list. 
 
    ------------------------------------------
 
