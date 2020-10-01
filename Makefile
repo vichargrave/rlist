@@ -15,7 +15,7 @@ TARGET		= rlist
 all: $(SOURCES) $(TARGET)
 
 $(TARGET): $(OBJECTS) 
-	$(CC) $(LDFLAGS) $(OBJECTS) -o $@
+	$(CC) $(OBJECTS) $(LDFLAGS) -o $@
 
 .c.o:
 	$(CC) $(CFLAGS) $(INCLUDES) $< -o $@
